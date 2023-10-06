@@ -1,5 +1,4 @@
-# Overview
-LDA-VGHB: identifying potential lncRNA-disease associations with singular value decomposition, variational graph auto-encoder, and heterogeneous Newton boosting machine
+# LDA-VGHB: identifying potential lncRNA-disease associations with singular value decomposition, variational graph auto-encoder, and heterogeneous Newton boosting machine
 ![Alt](Flowchart.png)
 
 ## Data
